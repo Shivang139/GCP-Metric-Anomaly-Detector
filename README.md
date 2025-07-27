@@ -33,7 +33,7 @@ You must have the following software installed on your machine:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Shivang139/GCP-Metric-Anomaly-Detector.git](https://github.com/Shivang139/GCP-Metric-Anomaly-Detector.git)
+    git clone https://github.com/Shivang139/GCP-Metric-Anomaly-Detector.git
     cd GCP-Metric-Anomaly-Detector
     ```
 
@@ -67,10 +67,10 @@ You must have the following software installed on your machine:
 
       ```bash
       # For Windows
-      .\gcp-anomaly-detector.exe
+      .\GCP-Metric-Anomaly-Detector.exe
 
       # For macOS/Linux
-      ./gcp-anomaly-detector
+      ./GCP-Metric-Anomaly-Detector
       ```
 
 ## Configuration (`config.yaml`)
